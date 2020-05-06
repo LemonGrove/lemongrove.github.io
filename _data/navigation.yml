@@ -1,14 +1,4 @@
 # main links
 main:
-  - title: "Portfolio"
-    url: /visualization/portfolio
-  - title: "Research"
-    url: /research/
-  - title: "Publications"
-    url: /publications/
-  - title: "Music"
-    url: /music/
-  - title: "Tutorials"
-    url: /tutorials/
-  - title: "CV"
-    url: /cv/
+  - title: "Molecules"
+    url: /molecules
