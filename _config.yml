@@ -16,6 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en"
+title                    : "Nano Tube Intersections"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Nano Tube Intersection"
@@ -109,7 +110,7 @@ analytics:
 # Site Author
 author:
   name             : "Geoff Clark"
-  avatar           : ""
+  avatar           : "/assets/img/torus.png"
   bio              : "Nano Tube Intersections"
   location         : "Lemon Grove, CA"
   email            : "gclark.mobile16@gmail.com"
