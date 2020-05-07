@@ -20,7 +20,7 @@ date:   2020-05-06
 </div>
 
 
-### Tetrahedral 2
+### Tetrahedral Extended
 
 <div style="height: 250px; max-width: 800px;"
   class='viewer_3Dmoljs' data-datatype='xyz'
@@ -29,7 +29,7 @@ date:   2020-05-06
   data-style='stick'>
 </div>
 
-### Nano sheet 1
+### 5-5-8 substitution
 
 <div style="height: 250px; max-width: 800px;"
   class='viewer_3Dmoljs' data-datatype='xyz'
@@ -38,7 +38,7 @@ date:   2020-05-06
   data-style='stick'>
 </div>
 
-### Nano sheet 2
+### 5-7-swirl
 
 <div style="height: 250px; max-width: 800px;"
   class='viewer_3Dmoljs' data-datatype='xyz'
@@ -47,7 +47,7 @@ date:   2020-05-06
   data-style='stick'>
 </div>
 
-### Torus
+### 5-7-torus
 
 <div style="height: 250px; max-width: 800px;"
   class='viewer_3Dmoljs' data-datatype='xyz'
