@@ -2,3 +2,5 @@
 main:
   - title: "Molecules"
     url: /molecules
+  - title: "Gallery"
+    url: /gallery
