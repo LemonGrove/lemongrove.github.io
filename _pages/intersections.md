@@ -37,15 +37,6 @@ date:   2020-05-08
   data-style='stick'>
 </div>
 
-### Trigonal Prismatic
-
-<div style="height: 250px; max-width: 800px;"
-  class='viewer_3Dmoljs' data-datatype='xyz'
-  data-backgroundcolor="#FFFFFF"
-  data-href='/assets/molecules/Trigonal-Prismatic-n3-m3-pre.xyz'
-  data-style='stick'>
-</div>
-
 ### Trigonal BiPyramidal A
 
 <div style="height: 250px; max-width: 800px;"
@@ -61,5 +52,14 @@ date:   2020-05-08
   class='viewer_3Dmoljs' data-datatype='xyz'
   data-backgroundcolor="#FFFFFF"
   data-href='/assets/molecules/Trigonal-BiPyramidal-B.xyz'
+  data-style='stick'>
+</div>
+
+### Trigonal Prismatic
+
+<div style="height: 250px; max-width: 800px;"
+  class='viewer_3Dmoljs' data-datatype='xyz'
+  data-backgroundcolor="#FFFFFF"
+  data-href='/assets/molecules/Trigonal-Prismatic-n3-m3-pre.xyz'
   data-style='stick'>
 </div>
