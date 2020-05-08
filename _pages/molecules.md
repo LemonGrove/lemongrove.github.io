@@ -10,7 +10,16 @@ date:   2020-05-08
 
 # Molecules
 
-### 1. Nano forest - carbon sheet with nanotubes
+### 1. Nano cube
+
+<div style="height: 250px; max-width: 800px;"
+  class='viewer_3Dmoljs' data-datatype='xyz'
+  data-backgroundcolor='#FFFFFF'
+  data-href='/assets/molecules/geoff-clark-1.xyz'
+  data-style='stick'>
+</div>
+
+### 2. Nano forest - carbon sheet with nanotubes
 
 <div style="height: 250px; max-width: 800px;"
   class='viewer_3Dmoljs' data-datatype='xyz'
@@ -19,7 +28,7 @@ date:   2020-05-08
   data-style='stick'>
 </div>
 
-### 2. torus
+### 3. torus
 
 <div style="height: 250px; max-width: 800px;"
   class='viewer_3Dmoljs' data-datatype='xyz'
@@ -28,7 +37,7 @@ date:   2020-05-08
   data-style='stick'>
 </div>
 
-### 3. 5-7-swirl
+### 4. 5-7-swirl
 
 <div style="height: 250px; max-width: 800px;"
   class='viewer_3Dmoljs' data-datatype='xyz'
@@ -37,7 +46,7 @@ date:   2020-05-08
   data-style='stick'>
 </div>
 
-### 4. 5-5-8 substitution
+### 5. 5-5-8 substitution
 
 <div style="height: 250px; max-width: 800px;"
   class='viewer_3Dmoljs' data-datatype='xyz'
