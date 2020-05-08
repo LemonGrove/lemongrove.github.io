@@ -58,5 +58,3 @@ molecules:
 ---
 
 # Molecule Gallery
-
-{% include feature_row id="molecules" caption="Molecule gallery." %}

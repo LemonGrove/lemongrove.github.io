@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Intersections"
+    url: /intersections
   - title: "Molecules"
     url: /molecules
   - title: "Gallery"
