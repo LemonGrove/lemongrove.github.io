@@ -10,12 +10,12 @@ date:   2020-05-08
 
 # Molecules
 
-### 1. Nano cube
+### 1. Octaheral-B-scaffold
 
 <div style="height: 250px; max-width: 800px;"
   class='viewer_3Dmoljs' data-datatype='xyz'
   data-backgroundcolor='#FFFFFF'
-  data-href='/assets/molecules/geoff-clark-1.xyz'
+  data-href='/assets/molecules/Octaheral-B-scaffold.xyz'
   data-style='stick'>
 </div>
 
@@ -24,7 +24,7 @@ date:   2020-05-08
 <div style="height: 250px; max-width: 800px;"
   class='viewer_3Dmoljs' data-datatype='xyz'
   data-backgroundcolor='#FFFFFF'
-  data-href='/assets/molecules/geoff-clark-5-6-7-8-12.xyz'
+  data-href='/assets/molecules/nano-forest.xyz'
   data-style='stick'>
 </div>
 
@@ -52,5 +52,14 @@ date:   2020-05-08
   class='viewer_3Dmoljs' data-datatype='xyz'
   data-backgroundcolor='#FFFFFF'
   data-href='/assets/molecules/geoff-clark-6.xyz'
+  data-style='stick'>
+</div>
+
+### 6. Intersection of 32 nano tubes
+
+<div style="height: 250px; max-width: 800px;"
+  class='viewer_3Dmoljs' data-datatype='xyz'
+  data-backgroundcolor='#FFFFFF'
+  data-href='/assets/molecules/intersection-of-32-pipes.xyz'
   data-style='stick'>
 </div>
