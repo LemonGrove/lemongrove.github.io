@@ -10,6 +10,26 @@ date:   2020-05-08
 
 # Intersections
 
+### Trigonal Planar
+
+<div style="height: 250px; max-width: 800px;"
+  class='viewer_3Dmoljs' data-datatype='xyz'
+  data-backgroundcolor="#FFFFFF"
+  data-href='/assets/molecules/Trigonal-Planar-n4-m4.xyz'
+  data-style='stick'>
+</div>
+
+
+### Hexagonal Planar
+
+<div style="height: 250px; max-width: 800px;"
+  class='viewer_3Dmoljs' data-datatype='xyz'
+  data-backgroundcolor="#FFFFFF"
+  data-href='/assets/molecules/Hexagonal-planar-n4-m4.xyz'
+  data-style='stick'>
+</div>
+
+
 ### Tetrahedral
 
 <div style="height: 250px; max-width: 800px;"
