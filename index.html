@@ -6,26 +6,44 @@ header:
   overlay_color: "#ffffff"
   overlay_filter: "0.25"
   overlay_image: /assets/img/header.png
-headshots:
-  - url: /assets/img/Geoff-Clark-2b.png
-    image_path: /assets/img/Geoff-Clark-2b.png
+geoff_clark:
+  - image_path: /assets/img/geoff-clark-headshot.png
     alt: "Geoff-Clark"
     title: "Geoff Clark"
-  - url: /assets/img/KutayBSezginel.jpg
-    image_path: /assets/img/KutayBSezginel.jpg
+    excerpt: "<b>Molecular Architect</b><br>All molecular structures and models in this website were designed by Geoff C​lark."
+kutay_b_sezginel:
+  - image_path: /assets/img/kutay-b-sezginel-headshot.png
     alt: "Kutay-B-Sezginel"
-    title: "Kutay B. Sezginel"
+    title: "Kutay B. Sezginel, PhD"
+    excerpt: "<b>Web Designer</b><br>The molecular visualizations and web design was done by [Kutay](https://kutaybs.com/)."
 ---
 
-<div class="grid__wrapper">
-  {% for post in site.posts %}
-    {% include archive-single.html type="grid" %}
-  {% endfor %}
-</div>
+{% include feature_row id="geoff_clark" type="left" class="full" %}
+
+{% include feature_row id="kutay_b_sezginel" type="left" class="full" %}
 
 <h3>Acknowledgements</h3>
 
 Molecules in this website were created using
-<a href="https://avogadro.cc">Avogadro</a> molecular editor.
+<a href="https://avogadro.cc" target="_blank">Avogadro</a> molecular editor.
+<a href="https://avogadro.cc" target="_blank">
+  <img src="/assets/img/avogadro-logo.png" alt="avogadro">
+</a>
 
-<img src="/assets/img/avogadro-logo.png" alt="avogadro" />
+<h3>Special Thanks to:</h3>
+<ul>
+  <li>My wife Lee Clark for being my inspiration</li>
+  <li>My father Allan H Clark</li>
+  <li>Kutay for designing the website</li>
+  <li>
+    <a href="https://www.rmslaser.com/" target="_blank">RMS LASER</a>
+     for cutting my cardboard.
+  </li>
+  <li>
+    <a href="https://www.youtube.com/channel/UCzryZyOW34fKNTYXRSbWNbw" target="_blank">Stephen Wolinsky</a>
+  </li>
+  <li>
+    <a href="https://www.facebook.com/profile.php?id=100000290005885" target="_blank">Gerado Arcia Escalante</a>
+    (welder - Costa Rica)
+  </li>
+</ul>
