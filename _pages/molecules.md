@@ -55,12 +55,12 @@ date:   2020-05-08
   data-style='stick'>
 </div>
 
-### 6. Intersection of 32 nano tubes
+### 6. Intersection of 32 nano tubes #C6720
 
 <div style="height: 250px; max-width: 800px;"
   class='viewer_3Dmoljs' data-datatype='xyz'
   data-backgroundcolor='#FFFFFF'
-  data-href='/assets/molecules/intersection-of-32-pipes.xyz'
+  data-href='/assets/molecules/intersection-of-32-pipes-cross-section.xyz'
   data-style='stick'>
 </div>
 
