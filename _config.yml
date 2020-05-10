@@ -98,6 +98,7 @@ social:
   links:
     - "https://twitter.com/geoffclark4"
     - "https://www.linkedin.com/in/geoff-clark-1481731a5"
+    - "https://instagram.com/geoffclarklemongrove"
 
 # Analytics
 analytics:
@@ -123,6 +124,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/geoff-clark-1481731a5"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/geoffclarklemongrove"
 
 # Site Footer
 footer:
@@ -139,6 +143,9 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/geoff-clark-1481731a5"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/geoffclarklemongrove"
 
 
 # Reading Files
