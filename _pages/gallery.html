@@ -8,6 +8,12 @@ date:   2020-05-08
 
 <h1>Gallery</h1>
 
+<h3>intersection-of-32-pipes #C6270</h3>
+<img src="/assets/img/intersection-of-32-pipes.png" />
+
+<h3>intersection-of-32-pipes-cross-section #C6270</h3>
+<img src="/assets/img/intersection-of-32-pipes-cross-section.png" />
+
 {% for image in site.static_files %}
     {% if image.path contains 'img/models' %}
         <h3>{{ image.name | replace: ".jpg", "" }}</h3>
