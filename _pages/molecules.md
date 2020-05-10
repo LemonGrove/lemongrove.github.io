@@ -10,12 +10,12 @@ date:   2020-05-08
 
 # Molecules
 
-### 1. Octaheral-B-scaffold
+### 1. Octahedral-B-scaffold
 
 <div style="height: 250px; max-width: 800px;"
   class='viewer_3Dmoljs' data-datatype='xyz'
   data-backgroundcolor='#FFFFFF'
-  data-href='/assets/molecules/Octaheral-B-scaffold.xyz'
+  data-href='/assets/molecules/Octahedral-B-scaffold.xyz'
   data-style='stick'>
 </div>
 
