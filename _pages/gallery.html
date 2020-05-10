@@ -11,6 +11,6 @@ date:   2020-05-08
 {% for image in site.static_files %}
     {% if image.path contains 'img/models' %}
         <h3>{{ image.name | replace: ".jpg", "" }}</h3>
-        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+        <img src="{{ site.baseurl }}{{ image.path }}" />
     {% endif %}
 {% endfor %}
