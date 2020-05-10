@@ -63,3 +63,21 @@ date:   2020-05-08
   data-href='/assets/molecules/intersection-of-32-pipes.xyz'
   data-style='stick'>
 </div>
+
+### 7. Lizard's Eye 10
+
+<div style="height: 250px; max-width: 800px;"
+  class='viewer_3Dmoljs' data-datatype='xyz'
+  data-backgroundcolor='#FFFFFF'
+  data-href='/assets/molecules/lizards-eye-10.xyz'
+  data-style='stick'>
+</div>
+
+### 8. Lizard's Eye 10 substitution
+
+<div style="height: 250px; max-width: 800px;"
+  class='viewer_3Dmoljs' data-datatype='xyz'
+  data-backgroundcolor='#FFFFFF'
+  data-href='/assets/molecules/Lizards-eye-10-substitution.xyz'
+  data-style='stick'>
+</div>
