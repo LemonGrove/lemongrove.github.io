@@ -61,7 +61,7 @@ date:   2020-05-08
   class='viewer_3Dmoljs' data-datatype='xyz'
   data-backgroundcolor='#FFFFFF'
   data-href='/assets/molecules/intersection-of-32-pipes-cross-section.xyz'
-  data-style='stick'>
+  data-style='sphere'>
 </div>
 
 ### 7. Lizard's Eye 10
