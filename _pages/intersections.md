@@ -2,8 +2,10 @@
 layout: splash
 permalink: /intersections
 title:  "Intersections"
-excerpt: ""
-date:   2020-05-10
+description: Nanotube intersections molecular models
+author:
+  twitter: geoffclark4
+date:   2020-05-13
 ---
 
 <script src="/assets/js/3Dmol-min.js"></script>

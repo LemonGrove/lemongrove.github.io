@@ -1,9 +1,11 @@
 ---
 layout: splash
 permalink: /animations
-title:  "Molecule Gallery"
-excerpt: ""
-date:   2020-05-12
+title:  "Animations"
+description: Nanotube intersections animations
+author:
+  twitter: geoffclark4
+date:   2020-05-13
 molecules:
   - image_path: /assets/img/octahedral-slow.gif
     alt: "octahedral"

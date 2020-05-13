@@ -2,8 +2,10 @@
 layout: splash
 permalink: /molecules
 title:  "Molecules"
-excerpt: ""
-date:   2020-05-10
+description: Molecules made with carbon nanotube intersections
+author:
+  twitter: geoffclark4
+date:   2020-05-13
 ---
 
 <script src="/assets/js/3Dmol-min.js"></script>
