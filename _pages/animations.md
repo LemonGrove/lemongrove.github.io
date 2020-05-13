@@ -5,14 +5,17 @@ title:  "Molecule Gallery"
 excerpt: ""
 date:   2020-05-12
 molecules:
-  - url: /assets/img/octahedral-slow.gif
-    image_path: /assets/img/octahedral-slow.gif
+  - image_path: /assets/img/octahedral-slow.gif
     alt: "octahedral"
     title: "octahedral"
+    excerpt: ""
+  - image_path: /assets/img/hexagonal.gif
+    alt: "hexagonal"
+    title: "hexagonal"
     excerpt: ""
 
 ---
 
 # Animations
 
-{% include gallery id="molecules" type="center" class="full" %}
+{% include feature_row id="molecules" type="center" class="full" %}
