@@ -15,9 +15,16 @@ molecules:
     alt: "hexagonal"
     title: "hexagonal"
     excerpt: ""
-
+  - image_path: /assets/img/hexagonal-planar.gif
+    alt: "hexagonal-planar"
+    title: "hexagonal-planar"
+    excerpt: ""
+  - image_path: /assets/img/trigonal-planar.gif
+    alt: "trigonal-planar"
+    title: "trigonal-planar"
+    excerpt: ""
 ---
 
 # Animations
 
-{% include feature_row id="molecules" type="center" class="full" %}
+{% include feature_row id="molecules" class="full" %}
