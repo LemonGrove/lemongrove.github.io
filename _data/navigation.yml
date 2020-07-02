@@ -8,3 +8,5 @@ main:
     url: /gallery
   - title: "Animations"
     url: /animations
+  - title: "Tutorials"
+    url: /tutorials
