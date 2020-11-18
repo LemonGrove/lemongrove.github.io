@@ -10,6 +10,10 @@ date:   2020-08-03
 
 # Video tutorials
 
+## Nanotube Orientation Alteration
+
+{% include video id="fbmFVg9x_eQ" provider="youtube" %}
+
 ## Graphene - Nanotube intersection
 
 {% include video id="XdnJ885Ml6I" provider="youtube" %}
