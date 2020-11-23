@@ -1,0 +1,18 @@
+---
+layout: splash
+permalink: /gallery/molecule
+title:  "Molecule Gallery"
+description: Nanotube intersections molecule gallery
+author:
+  twitter: geoffclark4
+date:   2020-05-20
+---
+
+<h1>Molecular Model Gallery</h1>
+
+{% for image in site.static_files %}
+    {% if image.path contains 'img/molecules' %}
+        <h3>{{ image.name | replace: ".jpg", "" | replace: ".png", "" }}</h3>
+        <img src="{{ site.baseurl }}{{ image.path }}" />
+    {% endif %}
+{% endfor %}
