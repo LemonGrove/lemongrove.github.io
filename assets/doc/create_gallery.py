@@ -1,3 +1,7 @@
+"""
+python create_gallery.py {image dir} {md filename} {url}
+Ex: python create_gallery.py molecules3 molecules3 molecules3
+"""
 import os
 import re
 import sys
@@ -19,11 +23,6 @@ def atoi(text):
     return int(text) if text.isdigit() else text
 
 def natural_keys(text):
-    '''
-    alist.sort(key=natural_keys) sorts in human order
-    http://nedbatchelder.com/blog/200712/human_sorting.html
-    (See Toothy's implementation in the comments)
-    '''
     return [ atoi(c) for c in re.split(r'(\d+)', text) ]
 
 
@@ -33,10 +32,19 @@ if len(sys.argv) != 4:
 img_dir = sys.argv[1]
 filename = f"../../_pages/{sys.argv[2]}.md"
 url = sys.argv[3]
-
+rename = False
 
 
 images = os.listdir(f"../img/{img_dir}")
+if rename:
+    for i in images:
+        old_file = os.path.join(f"../img/{img_dir}", i)
+        # Change file name
+        d = i.split()[2]
+        t = i.split()[4]
+        new_file = os.path.join(f"../img/{img_dir}", f"{d}_{t}.png")
+        os.rename(old_file, new_file)
+    images = os.listdir(f"../img/{img_dir}")
 images.sort(key=natural_keys)
 print(images)
 images = [f"/assets/img/{img_dir}/{i}" for i in images]
