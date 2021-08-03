@@ -23,20 +23,21 @@ def atoi(text):
     return int(text) if text.isdigit() else text
 
 def natural_keys(text):
-    return [ atoi(c) for c in re.split(r'(\d+)', text) ]
+    return [
+    (c) for c in re.split(r'(\d+)', text) ]
 
 
-if len(sys.argv) != 4:
-    print("Args: {image dir} {md filename} {url}")
+# if len(sys.argv) != 4:
+#     print("Args: {image dir} {md filename} {url}")
 
-img_dir = sys.argv[1]
-filename = f"../../_pages/{sys.argv[2]}.md"
-url = sys.argv[3]
-rename = False
-
-
+img_dir = input("Name of the image directory (/assets/img/{name}): ")
+filename =  input(f"Markdown file name ({img_dir}): ") or img_dir
+url = input(f"URL ({filename}): ") or filename
+filename = f"../../_pages/{filename}.md"
 images = os.listdir(f"../img/{img_dir}")
-if rename:
+print(f"{len(images)} images found in {img_dir}\nMD: {filename} URL: {url}")
+rename = input("Rename files? ([y] / n): ") or "y"
+if rename == "y":
     for i in images:
         old_file = os.path.join(f"../img/{img_dir}", i)
         # Change file name
