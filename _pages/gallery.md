@@ -23,6 +23,14 @@ gallery:
     image_path: /assets/img/molecules3/2021-03-14_1.39.20.png
     alt: "Molecule Gallery 2021 | 1"
     title: "Molecule Gallery 2021 | 1"
+  - url: /gallery/molecules_2021_2
+    image_path: /assets/img/molecules_2021_2/2021-05-08_2.08.47.png
+    alt: "Molecule Gallery 2021 | 2"
+    title: "Molecule Gallery 2021 | 2"
+  - url: /gallery/building_supplies
+    image_path: /assets/img/building_supplies/2021-06-28_10.06.31.png
+    alt: "Building Supplies"
+    title: "Building Supplies"
 ---
 
 # Gallery
