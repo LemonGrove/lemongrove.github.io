@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /gallery/molecules_2021_2
-title:  Molecule Gallery
+title:  Molecules 2021 | 2
 description: Nanotube intersections molecule gallery
 author:
   twitter: geoffclark4

@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /molecules
-title:  "Molecules"
+title: Molecules
 description: Molecules made with carbon nanotube intersections
 author:
   twitter: geoffclark4
