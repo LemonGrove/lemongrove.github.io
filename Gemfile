@@ -1,16 +1,4 @@
 source "https://rubygems.org"
-
-gem "github-pages", group: :jekyll_plugins
+gemspec
 gem "jekyll-remote-theme"
-
-group :jekyll_plugins do
-  gem "jekyll-paginate"
-  gem "jekyll-sitemap"
-  gem "jekyll-gist"
-  gem "jekyll-feed"
-  gem "jemoji"
-  gem "jekyll-include-cache"
-  gem 'jekyll-seo-tag'
-end
-
-gem "webrick", "~> 1.7"
+gem "jekyll-seo-tag"
