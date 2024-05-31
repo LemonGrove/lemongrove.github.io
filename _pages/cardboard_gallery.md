@@ -154,4 +154,4 @@ gallery:
 
 ---
 
-{% include feature_row id='gallery' %}
+{% include feature_row_old id='gallery' %}

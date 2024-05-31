@@ -39,4 +39,4 @@ gallery:
 
 # Gallery
 
-{% include feature_row id="gallery" class="full" %}
+{% include feature_row_old id="gallery" class="full" %}
